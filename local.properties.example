@@ -1,0 +1,4 @@
+# Необов'язково: проєкт працює без ключа (CoinGecko Public API).
+# Для вищих лімітів (30 запитів/хв) можна створити безкоштовний Demo API key
+# на https://www.coingecko.com/en/api/pricing і додати його сюди:
+COINGECKO_API_KEY=
